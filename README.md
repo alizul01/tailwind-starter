@@ -1,12 +1,7 @@
 # tailwind-starter
 
 <p>
-  <a href="https://tailwindcss.com/#gh-light-mode-only" target="_blank">
-    <img src="./.github/logo-light.svg" alt="Tailwind CSS" width="350" height="70">
-  </a>
-  <a href="https://tailwindcss.com/#gh-dark-mode-only" target="_blank">
-    <img src="./.github/logo-dark.svg" alt="Tailwind CSS" width="350" height="70">
-  </a>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/1200px-Tailwind_CSS_Logo.svg.png" width="60px" alt="Tailwind CSS">
 </p>
 
 A utility-first CSS framework for rapidly building custom user interfaces.
